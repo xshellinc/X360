@@ -8,3 +8,7 @@ X360 can plug to ceiling light hooking adapter(may be japanese only).
 - Raspberry Pi 
 - Case
 - ceiling adapter
+
+
+# License
+Public Domain(CC0)
